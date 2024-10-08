@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">About me</h2>https://github.com/rayymhra/rayymhra/blob/main/README.md
+<h2 align="left">About me</h2>
 
 ###
 
