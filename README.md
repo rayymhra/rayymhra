@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About me</h2>https://github.com/rayymhra/rayymhra/blob/main/README.md
 
 ###
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left">I code with</h2>
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
