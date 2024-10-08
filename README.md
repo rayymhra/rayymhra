@@ -54,4 +54,9 @@ Here are some ideas to get you started:
 
 ###
 
+<h2 align="left">Connect With Me</h2>
+https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+
+###
+
 
