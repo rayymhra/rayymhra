@@ -55,7 +55,9 @@ Here are some ideas to get you started:
 ###
 
 <h2 align="left">Connect With Me</h2>
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[![Linkedin Badge](https://img.shields.io/badge/-muhammadilyasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-ilyasa-465284246/)](https://www.linkedin.com/in/muhammad-ilyasa-465284246/) 
+[![Gmail Badge](https://img.shields.io/badge/-muhammad.ilyaasa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammad.ilyaasa@gmail.com)](mailto:muhammad.ilyaasa@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-yaszavellia-purple?style=flat-square&labelColor=purple&logo=instagram&logoColor=white&link=https://www.instagram.com/yaszavellia/)](https://www.instagram.com/yaszavellia/)
 
 ###
 
