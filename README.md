@@ -52,6 +52,8 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+Not sure in what to specialize though. Too many options.
+
 ###
 
 <h2 align="left">Connect With Me</h2>
