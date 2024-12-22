@@ -65,5 +65,7 @@ Not sure in what to specialize though. Too many options.
 
 
 ###
+<h2 align="left">Top Language</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayymhra"/>
 
 
