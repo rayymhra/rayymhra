@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-Not sure in what to specialize though. Too many options.
+Still not sure in what to specialize though...
 
 ###
 
@@ -63,9 +63,14 @@ Not sure in what to specialize though. Too many options.
 <!-- <a href="https://www.youtube.com/c/ralliesnote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ralliesnote" height="30" width="40" /></a> -->
 </p>
 
+###
+<h2 align="left">Trophy</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayymhra" alt="rayymhra" /></a> </p>
 
 ###
-<h2 align="left">Top Language</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayymhra"/>
+<h2 align="left">Top Language & Streak</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayymhra&show_icons=true&locale=en&layout=compact" alt="rayymhra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rayymhra&" alt="rayymhra" /></p>
 
 
