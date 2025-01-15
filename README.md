@@ -71,7 +71,7 @@ Still not sure in what to specialize though...
 <h2 align="left">Top Language & Streak</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayymhra&show_icons=true&locale=en&layout=compact" alt="rayymhra" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=rayymhra&theme=dark" alt="rayymhra" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rayymhra"/></a>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
 
 
