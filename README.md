@@ -72,7 +72,7 @@ Still not sure in what to specialize though...
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayymhra&show_icons=true&locale=en&layout=compact" alt="rayymhra" /></p>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rayymhra&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
 </picture>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
