@@ -64,6 +64,8 @@ Still not sure in what to specialize though...
 </p>
 
 ###
+<h2 align="left">Info</h2>
+
 <p align="center">
     <a href="https://github.com/rayymhra/rayymhra">
         <img src="https://github-profile-trophy.vercel.app/?username=rayymhra&column=-1&theme=dracula" />
