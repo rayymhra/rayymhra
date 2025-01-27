@@ -69,7 +69,17 @@ Still not sure in what to specialize though...
 
 ###
 <h2 align="left">Top Language & Streak</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayymhra&show_icons=true&locale=en&layout=compact" alt="rayymhra" /></p>
+<p align="center">
+    <a href="https://github.com/rayymhra/rayymhra">
+        <img src="https://github-profile-trophy.vercel.app/?username=rayymhra&column=-1&theme=dracula" />
+    </a>
+    <a href="https://github.com/rayymhra/rayymhra">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayymhra&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
+    </a>
+    <a href="https://github.com/rayymhra/rayymhra">
+        <img src="https://github-readme-stats.vercel.app/api?username=rayymhra&show_icons=true&count_private=true&theme=dracula" />
+    </a>
+</p>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rayymhra&theme=dark" />
