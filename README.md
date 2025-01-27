@@ -64,11 +64,6 @@ Still not sure in what to specialize though...
 </p>
 
 ###
-<h2 align="left">Trophy</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayymhra" alt="rayymhra" /></a> </p>
-
-###
-<h2 align="left">Top Language & Streak</h2>
 <p align="center">
     <a href="https://github.com/rayymhra/rayymhra">
         <img src="https://github-profile-trophy.vercel.app/?username=rayymhra&column=-1&theme=dracula" />
@@ -79,12 +74,12 @@ Still not sure in what to specialize though...
     <a href="https://github.com/rayymhra/rayymhra">
         <img src="https://github-readme-stats.vercel.app/api?username=rayymhra&show_icons=true&count_private=true&theme=dracula" />
     </a>
-</p>
-
-<picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rayymhra&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
-</picture>
+  </picture>
+</p>
+
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
 
 
