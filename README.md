@@ -64,7 +64,7 @@ Still not sure in what to specialize though...
 </p>
 
 ###
-<h2 align="left">Info</h2>
+<h2 align="left">Stats</h2>
 
 <p align="center">
     <a href="https://github.com/rayymhra/rayymhra">
