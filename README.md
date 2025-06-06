@@ -1,85 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Rayya 👋</h1>
+<p align="center">✨ Software Engineering Student | Aspiring Full-Stack Developer | Code, Circuits, and Explore ✨</p>
 
-<!--
-**rayymhra/rayymhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+I'm <strong>Rayya Mahira</strong>, a software engineering student at <strong>SMK Bina Mandiri Multimedia</strong>. I love solving problems with code, experimenting with tech, and occasionally making my computer cry. <br><br>
+🌱 Currently exploring: <strong>PHP</strong>, <strong>Laravel</strong>, <strong>Javascript</strong>, and <strong>Arduino</strong>.<br>
+🎯 Goal: Becoming a confident and versatile <strong>Full-Stack Developer</strong> (and maybe a little robotics on the side).<br>
+<!-- 🐞 Fun Fact: I’ve been creating bugs since 2023 😉 -->
+</p>
 
-###
+---
 
-<p align="left">My name is Rayya Mahira and I'm a Software Engineer Student in SMK BINA MANDIRI MULTIMEDIA</p>
+## 🛠️ Tech Stack
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning PHP, Laravel, Godot Engine, Arduino<br>🎯 Goals: FullStack<br></p>
-
-###
-
-<h2 align="left">I code with</h2>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot" /> -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
 </div>
 
-###
+---
 
-<h2 align="left">Connect With Me</h2>
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/rayya-mahira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayya-mahira" height="30" width="40" /></a>
-<a href="https://instagram.com/ralliesnote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ralliesnote" height="30" width="40" /></a>
-<!-- <a href="https://www.youtube.com/c/ralliesnote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ralliesnote" height="30" width="40" /></a> -->
+  <a href="https://linkedin.com/in/rayya-mahira" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rayya Mahira" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/ralliesnote" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - @ralliesnote" height="30" width="40" />
+  </a>
+  <!-- <a href="https://www.youtube.com/c/ralliesnote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube - ralliesnote" height="30" width="40" /></a> -->
 </p>
 
-###
-<h2 align="left">Stats</h2>
+---
 
-<p align="center">
-    <a href="https://github.com/rayymhra/rayymhra">
-        <img src="https://github-profile-trophy.vercel.app/?username=rayymhra&column=-1&theme=dracula" />
-    </a>
-    <a href="https://github.com/rayymhra/rayymhra">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayymhra&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
-    </a>
-    <a href="https://github.com/rayymhra/rayymhra">
-        <img src="https://github-readme-stats.vercel.app/api?username=rayymhra&show_icons=true&count_private=true&theme=dracula" />
-    </a>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rayymhra&show_icons=true&theme=dracula&hide_border=true&border_radius=10&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayymhra&layout=compact&theme=dracula&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rayymhra&theme=dracula&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rayymhra&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rayymhra&theme=dark&hide_border=true&border_radius=10" />
+    <img src="https://streak-stats.demolab.com?user=rayymhra&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </picture>
-</p>
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
-
-
+</div>
