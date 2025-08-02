@@ -6,7 +6,7 @@
 ## 👩‍💻 About Me
 
 <p align="left">
-I'm <strong>Rayya Mahira</strong>, a software engineering student at <strong>SMK Bina Mandiri Multimedia</strong>. 
+I'm <strong>Rayya Mahira</strong>, a software engineering student at <strong>SMK Bina Mandiri Multimedia</strong>. <br><br>
 🌱 Currently exploring: <strong>Laravel</strong>, <strong>Javascript</strong>, <strong>Flutter</strong>, and <strong>Arduino</strong>.<br>
 🎯 Goal: Becoming a confident and versatile <strong>Full-Stack Developer</strong> (and maybe a little robotics on the side).<br>
 <!-- 🐞 Fun Fact: I’ve been creating bugs since 2023 😉 -->
