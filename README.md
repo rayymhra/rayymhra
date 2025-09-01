@@ -56,7 +56,7 @@ I'm <strong>Rayya Mahira</strong>, a software engineering student at <strong>SMK
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rayymhra&theme=dracula&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rayymhra&theme=aura&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
 </div>
 
 <br/>
