@@ -61,9 +61,9 @@ I'm <strong>Rayya Mahira</strong>, a software engineering student at <strong>SMK
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=rayymhra&theme=dark&hide_border=true&border_radius=10" />
     <img src="https://streak-stats.demolab.com?user=rayymhra&theme=default&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </picture>
-</div>
+</div> -->
