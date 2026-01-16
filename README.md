@@ -1,7 +1,9 @@
+<div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=30&pause=1000&color=DD11F7&width=435&lines=Hi%2C+i'm+Rayya+Mahira)](https://git.io/typing-svg)
 <!-- <h1 align="center">Hi there, I'm Rayya 👋</h1> -->
 <p align="center">✨ Software Engineering Student | Aspiring Full-Stack Developer | Code, Circuits, and Explore ✨</p>
 
+</div>
 ---
 
 ## 👩‍💻 About Me
@@ -17,50 +19,53 @@ I'm <strong>Rayya Mahira</strong>, a software engineering student at <strong>SMK
 
 ## 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+<div align="center">
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
+
 </div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/rayya-mahira" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rayya Mahira" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/ralliesnote" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - @ralliesnote" height="30" width="40" />
-  </a>
-  <!-- <a href="https://www.youtube.com/c/ralliesnote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube - ralliesnote" height="30" width="40" /></a> -->
-</p>
+<div align="center">
+
+<a href="https://linkedin.com/in/rayya-mahira" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/ralliesnote" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" />
+</a>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayymhra&show_icons=true&theme=dracula&hide_border=true&border_radius=10&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayymhra&layout=compact&theme=dracula&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=rayymhra&show_icons=true&theme=dracula&hide_border=true&border_radius=12" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayymhra&layout=compact&theme=dracula&hide_border=true&border_radius=12" height="165" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rayymhra&theme=aura&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rayymhra&theme=aura&no-frame=true&row=1&column=6" />
 </div>
-
-<br/>
 
 <!-- <div align="center">
   <picture>
