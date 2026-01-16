@@ -1,10 +1,7 @@
-<div align="center">
-  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=30&pause=1000&color=DD11F7&width=435&lines=Hi%2C+i'm+Rayya+Mahira)](https://git.io/typing-svg)
 <!-- <h1 align="center">Hi there, I'm Rayya 👋</h1> -->
-<p align="center">✨ Software Engineering Student | Aspiring Full-Stack Developer | Code, Circuits, and Explore ✨</p>
+<!-- <p align="center">✨ Software Engineering Student | Aspiring Full-Stack Developer | Code, Circuits, and Explore ✨</p> -->
 
-</div>
 ---
 
 ## 👩‍💻 About Me
