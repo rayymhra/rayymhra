@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=30&pause=1000&color=DD11F7&width=435&lines=Hi%2C+i'm+Rayya+Mahira)](https://git.io/typing-svg)
 <!-- <h1 align="center">Hi there, I'm Rayya 👋</h1> -->
 <!-- <p align="center">✨ Software Engineering Student | Aspiring Full-Stack Developer | Code, Circuits, and Explore ✨</p> -->
-
 ---
 
 ## 👩‍💻 About Me
@@ -50,20 +49,18 @@ I'm <strong>Rayya Mahira</strong>, a software engineering student at <strong>SMK
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
+<!-- <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=rayymhra&show_icons=true&theme=dracula&hide_border=true&border_radius=12" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayymhra&layout=compact&theme=dracula&hide_border=true&border_radius=12" height="165" />
 
 </div>
 
-<br/>
+<br/> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rayymhra&theme=aura&no-frame=true&row=1&column=6" />
-</div>
+</div> -->
 
 <!-- <div align="center">
   <picture>
