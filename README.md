@@ -33,22 +33,6 @@ I'm <strong>Rayya Mahira</strong>, a software engineering student at <strong>SMK
 
 ---
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/rayya-mahira" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/ralliesnote" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" />
-</a>
-
-</div>
-
----
-
 <!-- <div align="center">
   
 <img src="https://github-readme-stats.vercel.app/api?username=rayymhra&show_icons=true&theme=dracula&hide_border=true&border_radius=12" height="165" />
