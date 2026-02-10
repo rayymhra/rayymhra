@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=30&pause=1000&color=FF9AD5&width=435&lines=Hi+hi+%F0%9F%8C%B8+i'm+Rayya+Mahira)](https://git.io/typing-svg)
-
 <p align="center">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=30&pause=1000&color=FF9AD5&width=435&lines=Hi+hi+%F0%9F%8C%B8+i'm+Rayya+Mahira)](https://git.io/typing-svg)
   <img src="https://i.pinimg.com/736x/73/df/fc/73dffc08b00aa91e42dae20a1cfb0d99.jpg" width="180"/>
 </p>
 
@@ -45,8 +45,8 @@ A <strong>Software Engineering student</strong> at <strong>SMK Bina Mandiri Mult
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/66/44/41/664441ccf3d524dc2cce6447e95951f3.jpg" width="140"/>
-  <img src="https://i.pinimg.com/originals/3f/7d/91/3f7d91baf98bb1f8c8e6a4c2e2f1b7d4.jpg" width="140"/>
-  <img src="https://i.pinimg.com/originals/6b/45/19/6b4519dbe0f9d44e3cbfa6cb52a8a2b6.jpg" width="140"/>
+  <img src="https://i.pinimg.com/736x/6b/2b/4b/6b2b4baa4e0bf3661be09d4b7ecc9291.jpg" width="140"/>
+  <img src="https://i.pinimg.com/1200x/19/5c/dd/195cdd75e3530371b2287f9c15d669bc.jpg" width="140"/>
 </p>
 
 <p align="center">
