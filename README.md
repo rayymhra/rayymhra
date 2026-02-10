@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=30&pause=1000&color=FF9AD5&width=435&lines=Hi+hi+%F0%9F%8C%B8+i'm+Rayya+Mahira)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4a/4b/3c/4a4b3c6c2e5c7c3b1c8b2f8c8a1d7c.jpg" width="180"/>
+  <img src="https://i.pinimg.com/736x/73/df/fc/73dffc08b00aa91e42dae20a1cfb0d99.jpg" width="180"/>
 </p>
 
 <p align="center">
+  Current fav album:
   <i>૮꒰ ˶• ༝ •˶꒱ა ♡ The Rise and Fall of a Midwest Princess ♡</i>
 </p>
 
@@ -40,10 +41,10 @@ A <strong>Software Engineering student</strong> at <strong>SMK Bina Mandiri Mult
 
 ---
 
-## 🍓 My Comfort Characters
+## 🍓 Current Favs
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/9b/62/77/9b6277fcbfdf9a8a1c4dbb7b5e5a0c2d.jpg" width="140"/>
+  <img src="https://i.pinimg.com/736x/66/44/41/664441ccf3d524dc2cce6447e95951f3.jpg" width="140"/>
   <img src="https://i.pinimg.com/originals/3f/7d/91/3f7d91baf98bb1f8c8e6a4c2e2f1b7d4.jpg" width="140"/>
   <img src="https://i.pinimg.com/originals/6b/45/19/6b4519dbe0f9d44e3cbfa6cb52a8a2b6.jpg" width="140"/>
 </p>
