@@ -17,27 +17,10 @@
 Hello~ I’m <strong>Rayya Mahira</strong> 🌷<br>
 A <strong>Software Engineering student</strong> at <strong>SMK Bina Mandiri Multimedia</strong>.<br><br>
 
-🌱 Currently learning: <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>Flutter</strong>, and <strong>Arduino</strong><br>
+🌱 I use this space to build small projects, learn by experimenting, and explore ideas that feel interesting to me.<br>
+🧁 Lately, that includes <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>Flutter</strong>, and <strong>Arduino</strong>, with occasional curiosity around robotics and IoT.
 💗 Interested in building reliable, thoughtful software — with occasional explorations into robotics and IoT.
 </p>
-
----
-
-## 🧁 Tech Stack
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="42" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
-
-</div>
 
 ---
 
