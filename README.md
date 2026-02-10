@@ -44,10 +44,21 @@ A <strong>Software Engineering student</strong> at <strong>SMK Bina Mandiri Mult
 ## 🍓 Current Favs
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/66/44/41/664441ccf3d524dc2cce6447e95951f3.jpg" width="140"/>
-  <img src="https://i.pinimg.com/736x/6b/2b/4b/6b2b4baa4e0bf3661be09d4b7ecc9291.jpg" width="140"/>
-  <img src="https://i.pinimg.com/1200x/19/5c/dd/195cdd75e3530371b2287f9c15d669bc.jpg" width="140"/>
+  <img
+    src="https://i.pinimg.com/736x/66/44/41/664441ccf3d524dc2cce6447e95951f3.jpg"
+    style="width:140px;height:140px;object-fit:cover;border-radius:12px;"
+  />
+  <img
+    src="https://i.pinimg.com/736x/30/07/97/30079701494695c7a91e17489ffb5514.jpg"
+    style="width:140px;height:140px;object-fit:cover;border-radius:12px;"
+  />
+  <img
+    src="https://i.pinimg.com/1200x/19/5c/dd/195cdd75e3530371b2287f9c15d669bc.jpg"
+    style="width:140px;height:140px;object-fit:cover;border-radius:12px;"
+  />
 </p>
+
+
 
 <p align="center">
   <i>they keep me alive during debugging sessions 🧸</i>
