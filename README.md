@@ -19,7 +19,7 @@ Hello~ I’m <strong>Rayya Mahira</strong> 🌷<br>
 i'm a software engineering student at vocational high school, currently on my senior year ~
 
 🌱 I use this space to build small projects, learn by experimenting, and explore ideas that feel interesting to me.<br>
-🧁 Lately, that includes <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>Flutter</strong>, and <strong>Arduino</strong>, with occasional curiosity around robotics and IoT.
+🧁 Lately, that includes <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>Flutter</strong>, and <strong>Arduino</strong><br>
 💗 Interested in building reliable, thoughtful software — with occasional explorations into robotics and IoT.
 </p>
 
