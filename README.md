@@ -16,7 +16,7 @@
 
 <p align="left">
 Hello~ I’m <strong>Rayya Mahira</strong> 🌷<br>
-A <strong>Software Engineering student</strong> at <strong>SMK Bina Mandiri Multimedia</strong>.<br><br>
+i'm a software engineering student at vocational high school, currently on my senior year ~
 
 🌱 I use this space to build small projects, learn by experimenting, and explore ideas that feel interesting to me.<br>
 🧁 Lately, that includes <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>Flutter</strong>, and <strong>Arduino</strong>, with occasional curiosity around robotics and IoT.
