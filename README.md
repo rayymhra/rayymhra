@@ -29,7 +29,7 @@ i'm a software engineering student at vocational high school, currently on my se
 
 <p align="center">
   <img
-    src="[https://i.pinimg.com/736x/66/44/41/664441ccf3d524dc2cce6447e95951f3.jpg](https://i.pinimg.com/736x/59/eb/0a/59eb0a28eec78e2382a8425ef617393b.jpg)"
+    src="https://i.pinimg.com/736x/59/eb/0a/59eb0a28eec78e2382a8425ef617393b.jpg"
     style="width:140px;height:140px;object-fit:cover;border-radius:12px;"
   />
   <img
