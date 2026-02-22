@@ -23,30 +23,6 @@ i'm a software engineering student at vocational high school, currently on my se
 💗 Interested in building reliable, thoughtful software — with occasional explorations into robotics and IoT.
 </p>
 
----
-
-## 🍓 Current Favs
-
-<p align="center">
-  <img
-    src="https://i.pinimg.com/736x/59/eb/0a/59eb0a28eec78e2382a8425ef617393b.jpg"
-    style="width:100px;height:100px;object-fit:cover;border-radius:12px;"
-  />
-  <img
-    src="https://i.pinimg.com/736x/59/c1/5b/59c15bdc3831c142c69793e129ea1d49.jpg"
-    style="width:100px;height:100px;object-fit:cover;border-radius:12px;"
-  />
-  <img
-    src="https://i.pinimg.com/1200x/19/5c/dd/195cdd75e3530371b2287f9c15d669bc.jpg"
-    style="width:100px;height:100px;object-fit:cover;border-radius:12px;"
-  />
-</p>
-
-
-
-<p align="center">
-  <i>they keep me alive during debugging sessions 🧸</i>
-</p>
 
 
 <p align="center">
