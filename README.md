@@ -9,8 +9,15 @@
   <sub>currently listening to</sub><br>
   <i>૮꒰ ˶• ༝ •˶꒱ა ♡ The Rise and Fall of a Midwest Princess ♡</i>
 </p> <br>
-<img src="https://i.imgur.com/FIhdBQu.gif" alt="songs">
+<img src="https://i.imgur.com/FIhdBQu.gif"> 
 
+<img src="https://i.imgur.com/TCWnVTA.gif"> 
+
+<img src="https://i.imgur.com/FIhdBQu.gif"> 
+
+<img src="https://i.imgur.com/TCWnVTA.gif"> 
+
+<img src="https://i.imgur.com/FIhdBQu.gif"> 
 ---
 
 ## 🎀 About Me
