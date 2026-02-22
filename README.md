@@ -18,6 +18,8 @@
 
  <!-- <img src="https://supplies.ju.mp/assets/images/gallery01/2c9d8c0c.jpg?v=1c1ba870">  -->
 
+ <img src="https://thekittyburger.neocities.org/stamps/midwestPrincess.jpg"> 
+
 <img src="https://64.media.tumblr.com/a85fe15c49c6202785f19151a3d12bb3/0b9d330431dd56b2-47/s100x200/901a304fbae6568c24ab73f0e5c877e5a6df9da8.pnj"> 
 
 <img src="https://y2k.neocities.org/stamps/tumblr_inline_p1fyv1nUPi1rv0j40_500.png"> 
@@ -26,7 +28,6 @@
 
 <img src="https://64.media.tumblr.com/3e278226ca9f6fb984dac2ae7fe8d320/f943c255bc176c80-10/s100x200/2fbd1e38af8b23ccc7226408a987f17f00dc0750.pnj"> 
 
-<img src="https://thekittyburger.neocities.org/stamps/midwestPrincess.jpg"> 
 
 </div>
 
