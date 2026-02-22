@@ -8,7 +8,8 @@
 <p align="center">
   <sub>currently listening to</sub><br>
   <i>૮꒰ ˶• ༝ •˶꒱ა ♡ The Rise and Fall of a Midwest Princess ♡</i>
-</p>
+</p> <br>
+<img src="https://i.imgur.com/FIhdBQu.gif" alt="songs">
 
 ---
 
