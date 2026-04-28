@@ -49,7 +49,7 @@ I use this space to build small projects, learn by experimenting, and explore id
 <br>
 
 <img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> 
-Lately, that includes <strong>Laravel</strong>, <strong>JavaScript</strong>, <strong>Flutter</strong>, and <strong>Arduino</strong>
+Lately, that includes <strong>Laravel</strong>, <strong>JavaScript</strong>, and <strong>Arduino</strong>
 <br>
 
 <img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> 
