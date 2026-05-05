@@ -11,7 +11,7 @@
     currently listening to
     <img src="https://mypillowfort.net/media5/tumblr_61ebab962b2d5e93239a3551576865bf_1af4b2c0_75.gif">  
   </sub><br>
-  <i>૮꒰ ˶• ༝ •˶꒱ა ♡ The Rise and Fall of a Midwest Princess ♡</i>
+  <i>૮꒰ ˶• ༝ •˶꒱ა ♡ Wishbone Deluxe ♡</i>
 </p> <br>
 <div style="display: flex;" align="center">
   <!-- STAMPS -->
