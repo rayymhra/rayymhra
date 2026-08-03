@@ -2,11 +2,17 @@
   <img src="https://raw.githubusercontent.com/rayymhra/web-image-assets/refs/heads/master/pink%20banner.png" width="100%">
 </p>
 
+
+
 <p align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Delicious+Handrawn&size=30&pause=1000&color=FF9AD5&width=435&lines=Hi+hi+%F0%9F%8C%B8+i'm+Rayya+ˆᗜˆ)](https://git.io/typing-svg)
   <br>
  <!---  <img src="https://i.pinimg.com/736x/73/df/fc/73dffc08b00aa91e42dae20a1cfb0d99.jpg" width="180"/> -->
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/6oMSCHVhgbAAAAAi/star.gif" width="100%"/>
 </p>
 
 <p align="center">
@@ -48,9 +54,7 @@
 </div>
  <!-- STAMPS ENDSS -->
  
-<p align="center">
-  <img src="https://media.tenor.com/6oMSCHVhgbAAAAAi/star.gif" width="100%"/>
-</p>
+
 
 
 ---
