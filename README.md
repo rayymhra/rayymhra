@@ -22,15 +22,17 @@
 
  <!-- <img src="https://supplies.ju.mp/assets/images/gallery01/2c9d8c0c.jpg?v=1c1ba870">  -->
 
+ <img src="https://external-media.spacehey.net/media/sMmnEG_8Wx0yiBcV66dIckie5RCfc0hQ95u0r7CMPu2w=/https://64.media.tumblr.com/9366953a02a46c4866f17a0ac31a72ce/89749997f66a3a49-25/s100x200/ad3e81163aae2a683fac3e7b86a0ff572052445e.gifv"> 
+
  <img src="https://thekittyburger.neocities.org/stamps/midwestPrincess.jpg"> 
 
  <img src="https://64.media.tumblr.com/03f5ca3b01b981083f011afbf0f7e554/e65071f13406975b-99/s100x200/7ed11c709878afa40dfbc5fef866cddffb6e3fc6.png"> 
 
 <img src="https://64.media.tumblr.com/a85fe15c49c6202785f19151a3d12bb3/0b9d330431dd56b2-47/s100x200/901a304fbae6568c24ab73f0e5c877e5a6df9da8.pnj">
 
-<img src="https://external-media.spacehey.net/media/sMmnEG_8Wx0yiBcV66dIckie5RCfc0hQ95u0r7CMPu2w=/https://64.media.tumblr.com/9366953a02a46c4866f17a0ac31a72ce/89749997f66a3a49-25/s100x200/ad3e81163aae2a683fac3e7b86a0ff572052445e.gifv"> 
 
-<img src="https://raining-starss.neocities.org/pastel%20(4).png"> 
+
+<!-- <img src="https://raining-starss.neocities.org/pastel%20(4).png">  -->
 
 <img src="https://external-media.spacehey.net/media/sryApGM83_O-z-WOhAoJnSCJXkN0yQz62aYWnm8WzP0M=/https://64.media.tumblr.com/ee07b8292723d410560d5997a0376c89/89749997f66a3a49-3c/s100x200/6b9d3a62cbc1b773ca98ec793e0a22d707d26b08.gifv"> 
 
