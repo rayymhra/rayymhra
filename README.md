@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rayymhra/web-image-assets/refs/heads/master/pink%20banner.png" width="100%">
+  <img src="https://64.media.tumblr.com/1e188c034ab1851ce4570fae26671082/502d1856adefa209-7a/s540x810/30616d535d4af234fdd26c6953f13dc3b86d025a.gifv" width="100%">
 </p>
 
 
@@ -59,7 +59,12 @@
 
 ---
 
+
 ## 🎀 About Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rayymhra/web-image-assets/refs/heads/master/pink%20banner.png" width="100%">
+</p>
 
 <p align="left">
 Hello~ I’m <strong>Rayya Mahira</strong> <img src="https://files.catbox.moe/9z9qmg.gif"> <br>
