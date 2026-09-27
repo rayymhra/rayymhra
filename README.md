@@ -66,11 +66,11 @@
   <img src="https://raw.githubusercontent.com/rayymhra/web-image-assets/refs/heads/master/pink%20banner.png" width="100%">
 </p>
 
-<p align="left"> Hello~ I’m <strong>Rayya Mahira</strong> <img src="https://files.catbox.moe/9z9qmg.gif"> <br> I'm currently studying <strong>Electrical Engineering</strong> at university, after coming from a software engineering background. <br>
+<p align="left"> Hello~ I’m <strong>Rayya Mahira</strong> <img src="https://files.catbox.moe/9z9qmg.gif"> <br> I'm currently studying <strong>Electrical Engineering</strong> at university, after coming from a software engineering background.
 
-<img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> I use this space to build projects, learn by experimenting, and explore the intersection between <strong>software, electronics, and technology</strong>. <br>
+<img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> I use this space to build projects, learn by experimenting, and explore the intersection between <strong>software, electronics, and technology</strong>.
 
-<img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> My interests currently include <strong>web development</strong>, <strong>Arduino & microcontrollers</strong>, <strong>robotics</strong>, <strong>IoT</strong>, and <strong>cybersecurity</strong>. <br>
+<img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> My interests currently include <strong>web development</strong>, <strong>Arduino & microcontrollers</strong>, <strong>robotics</strong>, <strong>IoT</strong>, and <strong>cybersecurity</strong>.
 
 <img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> Coming from software, I'm now learning more about <strong>electronics, electrical systems, and embedded technology</strong>, and figuring out how all of these pieces can work together.
 
