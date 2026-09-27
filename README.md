@@ -66,25 +66,15 @@
   <img src="https://raw.githubusercontent.com/rayymhra/web-image-assets/refs/heads/master/pink%20banner.png" width="100%">
 </p>
 
-<p align="left">
-Hello~ I’m <strong>Rayya Mahira</strong> <img src="https://files.catbox.moe/9z9qmg.gif"> <br>
-i'm a software engineering student at vocational high school, currently on my senior year ~
-<br>
+<p align="left"> Hello~ I’m <strong>Rayya Mahira</strong> <img src="https://files.catbox.moe/9z9qmg.gif"> <br> I'm currently studying <strong>Electrical Engineering</strong> at university, after coming from a software engineering background. <br>
 
-<img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456">   
-I use this space to build small projects, learn by experimenting, and explore ideas that feel interesting to me.
-<br>
+<img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> I use this space to build projects, learn by experimenting, and explore the intersection between <strong>software, electronics, and technology</strong>. <br>
 
-<img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> 
-Lately, that includes <strong>Laravel</strong>, <strong>JavaScript</strong>, and <strong>Arduino</strong>
-<br>
+<img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> My interests currently include <strong>web development</strong>, <strong>Arduino & microcontrollers</strong>, <strong>robotics</strong>, <strong>IoT</strong>, and <strong>cybersecurity</strong>. <br>
 
-<img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> 
-Interested in building reliable, thoughtful software — with occasional explorations into robotics and IoT.
+<img src="https://wilardo.crd.co/assets/images/gallery28/df4026fc.gif?v=b62e9456"> Coming from software, I'm now learning more about <strong>electronics, electrical systems, and embedded technology</strong>, and figuring out how all of these pieces can work together.
 
 </p>
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7D5&height=120&section=footer"/>
